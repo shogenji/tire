@@ -26,25 +26,29 @@ https://youtube.com/shorts/fcgr1RqBjBM
 ペンダントのタイヤを指差しながら「タイヤ気になります？」と尋ねます。
 両手を首の後ろにまわし、ペンダントをはずして示します。
 このとき、右手で「たい焼き」をフィンガー・パームします。
-![Fig. 1](https://github.com/shogenji/tire/blob/image/tire001.png)
+
+<img src="https://github.com/shogenji/tire/blob/image/tire001.png" width="400">
 
 次に、タイヤを指先（スペルバウンド・ポジション）に持ちます。
 このとき、タイヤのヒートンをひもからはずし、ひもが左手の小指にかかった状態にします。
-![Fig. 2](https://github.com/shogenji/tire/blob/image/tire002.png)
+
+<img src="https://github.com/shogenji/tire/blob/image/tire002.png" width="400">
 
 タイヤを指先に持ったタイヤを見ながら「タイヤ気になります？」と尋ねます。
 タイヤに注目が集まっている間に、右手のフィンガー・パームのたい焼きをサム・パームに持ち変えます。
 「たいやきになります…」と呟きながら、右手で左手のタイヤを覆います。
 左手の指先の力を緩め、タイヤを左手の曲げている指の上に落とします。
 同時に、右手でサム・パームしているたい焼きを左手の指先に持ちます。
-![Fig. 3](https://github.com/shogenji/tire/blob/image/tire003.png)
+
+<img src="https://github.com/shogenji/tire/blob/image/tire003.png" width="400">
 
 さらに「たいやきになります…」と呟きながら、右手を左手から離すと、タイヤがたい焼きに変化したように見えます。
 右手でひもの結び目を持ち上げます。
 左手はタイヤをフィンガー・パームしたまま、ひもをつかみ、たい焼きのペンダントを両手で示します。
 たい焼きのペンダントを客に手渡して改めてもらうこともできます。
 演者は「たい焼きになります」と言いながら、たい焼きのペンダントを首にかけます。
-![Fig. 4](https://github.com/shogenji/tire/blob/image/tire004.png)
+
+<img src="https://github.com/shogenji/tire/blob/image/tire004.png" width="400">
 
 ## タイヤを指先に持つ動作
 タイヤを指先に持つ際に、タイヤのヒートンをひもからはずし、ひもが落ちないように左手の小指にかかった状態にしますが、これは以下の手順で行います。
@@ -53,8 +57,8 @@ https://youtube.com/shorts/fcgr1RqBjBM
 右手を右側に引き下げることで、ひもの輪の中に左手の小指を通しつつ、ヒートンをひもからはずします。
 ヒートンがはずれにくい場合は、左手の親指を左にずらしながら、右手でひもを引っ張ってはずします。
 左手の人差し指と薬指とでタイヤを挟んで保持し、左手の親指を軽く曲げて、左手の親指にかかったひもをはずします。
-![Fig. 11](https://github.com/shogenji/tire/blob/image/tire011.png)
-![Fig. 12](https://github.com/shogenji/tire/blob/image/tire012.png)
+<img src="https://github.com/shogenji/tire/blob/image/tire011.png" width="400">
+<img src="https://github.com/shogenji/tire/blob/image/tire012.png" width="400">
 
 ## タイヤの処理
 適当なタイミングで、ポケットにしまいます。
@@ -83,8 +87,8 @@ https://youtube.com/shorts/fcgr1RqBjBM
 このときタイヤの裏側よりに取り付けます。
 ゴムタイヤなので、ヒートンを付け直しても穴は目立ちません。
 使いやすい位置になるよう試行錯誤してください。
-![Fig. 21](https://github.com/shogenji/tire/blob/image/tire021.png)
-![Fig. 22](https://github.com/shogenji/tire/blob/image/tire022.png)
+<img src="https://github.com/shogenji/tire/blob/image/tire021.png" width="400">
+<img src="https://github.com/shogenji/tire/blob/image/tire022.png" width="400">
 
 ## 経緯
 浜松マジシャンズソサエティの例会で、KISSER氏の『タイヤ気になる』をプー博士から見せていただきました。
