@@ -57,6 +57,7 @@ https://youtube.com/shorts/fcgr1RqBjBM
 右手を右側に引き下げることで、ひもの輪の中に左手の小指を通しつつ、ヒートンをひもからはずします。
 ヒートンがはずれにくい場合は、左手の親指を左にずらしながら、右手でひもを引っ張っり、奥のひもをタイヤの下側に引き下げることでヒートンからはずします。
 左手の人差し指と薬指とでタイヤを挟んで保持し、左手の親指を軽く曲げて、左手の親指にかかったひもをはずします。
+
 <img src="https://github.com/shogenji/tire/blob/image/tire011.png" width="400">
 <img src="https://github.com/shogenji/tire/blob/image/tire012.png" width="400">
 
@@ -87,6 +88,7 @@ https://youtube.com/shorts/fcgr1RqBjBM
 このときタイヤの裏側よりに取り付けます。
 ゴムタイヤなので、ヒートンを付け直しても穴は目立ちません。
 使いやすい位置になるよう試行錯誤してください。
+
 <img src="https://github.com/shogenji/tire/blob/image/tire021.png" width="400">
 <img src="https://github.com/shogenji/tire/blob/image/tire022.png" width="400">
 
