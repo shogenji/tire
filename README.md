@@ -27,12 +27,12 @@ https://youtube.com/shorts/fcgr1RqBjBM
 両手を首の後ろにまわし、ペンダントをはずして示します。
 このとき、右手で「たい焼き」をフィンガー・パームします。
 
-<img src="https://github.com/shogenji/tire/blob/image/tire001.png" width="400">
+<img src="https://github.com/shogenji/tire/blob/image/pendant-tire.png" width="400">
 
 次に、タイヤを指先（スペルバウンド・ポジション）に持ちます。
 このとき、タイヤのヒートンをひもからはずし、ひもが左手の小指にかかった状態にします。
 
-<img src="https://github.com/shogenji/tire/blob/image/tire002.png" width="400">
+<img src="https://github.com/shogenji/tire/blob/image/spellbound-before.png" width="400">
 
 タイヤを指先に持ったタイヤを見ながら「タイヤ気になります？」と尋ねます。
 タイヤに注目が集まっている間に、右手のフィンガー・パームのたい焼きをサム・パームに持ち変えます。
@@ -40,7 +40,7 @@ https://youtube.com/shorts/fcgr1RqBjBM
 左手の指先の力を緩め、タイヤを左手の曲げている指の上に落とします。
 同時に、右手でサム・パームしているたい焼きを左手の指先に持ちます。
 
-<img src="https://github.com/shogenji/tire/blob/image/tire003.png" width="400">
+<img src="https://github.com/shogenji/tire/blob/image/spellbound-after.png" width="400">
 
 さらに「たいやきになります…」と呟きながら、右手を左手から離すと、タイヤがたい焼きに変化したように見えます。
 右手でひもの結び目を持ち上げます。
@@ -48,7 +48,7 @@ https://youtube.com/shorts/fcgr1RqBjBM
 たい焼きのペンダントを客に手渡して改めてもらうこともできます。
 演者は「たい焼きになります」と言いながら、たい焼きのペンダントを首にかけます。
 
-<img src="https://github.com/shogenji/tire/blob/image/tire004.png" width="400">
+<img src="https://github.com/shogenji/tire/blob/image/pendant-taiyaki.png" width="400">
 
 ## タイヤを指先に持つ動作
 タイヤを指先に持つ際に、タイヤのヒートンをひもからはずし、ひもが落ちないように左手の小指にかかった状態にしますが、これは以下の手順で行います。
@@ -58,8 +58,8 @@ https://youtube.com/shorts/fcgr1RqBjBM
 ヒートンがはずれにくい場合は、左手の親指を左にずらしながら、右手でひもを引っ張っり、奥のひもをタイヤの下側に引き下げることでヒートンからはずします。
 左手の人差し指と薬指とでタイヤを挟んで保持し、左手の親指を軽く曲げて、左手の親指にかかったひもをはずします。
 
-<img src="https://github.com/shogenji/tire/blob/image/tire011.png" width="400">
-<img src="https://github.com/shogenji/tire/blob/image/tire012.png" width="400">
+<img src="https://github.com/shogenji/tire/blob/image/holdtirefingertips.png" width="400">
+<img src="https://github.com/shogenji/tire/blob/image/unhook.png" width="400">
 
 ## タイヤの処理
 適当なタイミングで、ポケットにしまいます。
@@ -70,6 +70,8 @@ https://youtube.com/shorts/fcgr1RqBjBM
 - キーホルダー たい焼き（中京食品サンプル）
     - 価格 770 円（税込）
     - https://item.rakuten.co.jp/chukyo-foodsample/keyholder_taiyaki/
+
+<img src="https://github.com/shogenji/tire/blob/image/taiyaki.png" width="400">
 
 - エルパ（ELPA）タイヤ35 mm 2個入（朝日電器株式会社）
     - 価格 457 円（税込）
@@ -89,8 +91,8 @@ https://youtube.com/shorts/fcgr1RqBjBM
 ゴムタイヤなので、ヒートンを付け直しても穴は目立ちません。
 使いやすい位置になるよう試行錯誤してください。
 
-<img src="https://github.com/shogenji/tire/blob/image/tire021.png" width="400">
-<img src="https://github.com/shogenji/tire/blob/image/tire022.png" width="400">
+<img src="https://github.com/shogenji/tire/blob/image/screweye.png" width="400">
+<img src="https://github.com/shogenji/tire/blob/image/tire.png" width="400">
 
 ## 経緯
 浜松マジシャンズソサエティの例会で、KISSER氏の『タイヤ気になる』をプー博士から見せていただきました。
